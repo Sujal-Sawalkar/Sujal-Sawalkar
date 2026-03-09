@@ -40,9 +40,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
 
 ### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge&logo=sqlite)
-![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-tblue?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL)
 
 ### 🤖 AI / Data
 ![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
